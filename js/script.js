@@ -1,0 +1,1 @@
+//codigo principal de javascripot para todo index.html y para el login.php
